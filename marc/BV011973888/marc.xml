@@ -1,1 +1,324 @@
-<record><leader>00000cas a22000007a 4500</leader><controlfield tag="001">43452018</controlfield><controlfield tag="008">000214u1918uuuutxumr ne      0    0eng d</controlfield><datafield ind1=" " ind2=" " tag="010"><subfield code="a">   BV011973888 </subfield></datafield><datafield ind1=" " ind2=" " tag="040"><subfield code="a">PPM</subfield><subfield code="b">eng</subfield><subfield code="c">PPM</subfield><subfield code="d">OCL</subfield><subfield code="d">OCLCQ</subfield><subfield code="d">OCLCF</subfield><subfield code="d">OCLCO</subfield></datafield><datafield ind1="1" ind2=" " tag="029"><subfield code="a">AU@</subfield><subfield code="b">000021380034</subfield></datafield><datafield ind1=" " ind2=" " tag="042"><subfield code="a">msc</subfield></datafield><datafield ind1=" " ind2=" " tag="043"><subfield code="a">n-us-tx</subfield></datafield><datafield ind1="0" ind2=" " tag="130"><subfield code="a">Apostolic bulletin (Temple, Tex.)</subfield></datafield><datafield ind1="1" ind2="4" tag="245"><subfield code="a">The apostolic bulletin.</subfield></datafield><datafield ind1=" " ind2=" " tag="260"><subfield code="a">Temple, Bell County, Tex. :</subfield><subfield code="b">Board of Elders of the Church of God in Christ</subfield></datafield><datafield ind1=" " ind2=" " tag="300"><subfield code="a">v.</subfield></datafield><datafield ind1="0" ind2=" " tag="362"><subfield code="a">Vol. 1, no. 1 (June 7, 1918).</subfield></datafield><datafield ind1=" " ind2=" " tag="588"><subfield code="a">Description based on: Vol. 1, no. 1 (June 7, 1918).</subfield></datafield><datafield ind1=" " ind2="0" tag="650"><subfield code="a">African Americans</subfield><subfield code="z">Texas</subfield><subfield code="z">Temple</subfield><subfield code="v">Newspapers.</subfield></datafield><datafield ind1=" " ind2="7" tag="655"><subfield code="a">Newspapers.</subfield><subfield code="2">fast</subfield><subfield code="0">(OCoLC)fst01423814</subfield></datafield><datafield ind1=" " ind2="7" tag="650"><subfield code="a">African Americans.</subfield><subfield code="2">fast</subfield><subfield code="0">(OCoLC)fst00799558</subfield></datafield><datafield ind1=" " ind2="7" tag="651"><subfield code="a">Texas</subfield><subfield code="z">Temple.</subfield><subfield code="2">fast</subfield><subfield code="0">(OCoLC)fst01222175</subfield></datafield><datafield ind1=" " ind2=" " tag="752"><subfield code="a">United States</subfield><subfield code="b">Texas</subfield><subfield code="c">Bell</subfield><subfield code="d">Temple.</subfield></datafield></record>
+<?xml version="1.0" encoding="UTF-8"?>
+  <record xmlns="http://www.loc.gov/MARC21/slim" type="Bibliographic">
+    <leader>00000nas a2200000 c 4500</leader>
+    <controlfield tag="001">1046044419</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20190625074652.0</controlfield>
+    <controlfield tag="007">cr||||||||||||</controlfield>
+    <controlfield tag="008">140106d17981882xx w||n|o ||| 0||||1ger c</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="2">DE-101</subfield>
+      <subfield code="a">1046044419</subfield>
+    </datafield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="2">DE-600</subfield>
+      <subfield code="a">2747817-8</subfield>
+    </datafield>
+    <datafield tag="024" ind1="8" ind2=" ">
+      <subfield code="a">VD18 90291972</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-599)ZDB2747817-8</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)869859883</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">9001</subfield>
+      <subfield code="b">ger</subfield>
+      <subfield code="c">DE-101</subfield>
+      <subfield code="d">1241</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="044" ind1=" " ind2=" ">
+      <subfield code="c">XA-DXDE</subfield>
+      <subfield code="c">XA-DE</subfield>
+    </datafield>
+    <datafield tag="082" ind1="7" ind2="4">
+      <subfield code="a">070</subfield>
+      <subfield code="a">780</subfield>
+      <subfield code="q">DE-600</subfield>
+      <subfield code="2">23sdnb</subfield>
+    </datafield>
+    <datafield tag="084" ind1=" " ind2=" ">
+      <subfield code="a">9,2</subfield>
+      <subfield code="2">ssgn</subfield>
+    </datafield>
+    <datafield tag="084" ind1=" " ind2=" ">
+      <subfield code="a">550</subfield>
+      <subfield code="2">rpb</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="n">la</subfield>
+      <subfield code="n">dm</subfield>
+      <subfield code="n">ld</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Allgemeine musikalische Zeitung</subfield>
+    </datafield>
+    <datafield tag="264" ind1="3" ind2="1">
+      <subfield code="a">Leipzig</subfield>
+      <subfield code="a">Winterthur</subfield>
+      <subfield code="b">Rieter-Biedermann</subfield>
+      <subfield code="c">1798-1882</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Leipzig</subfield>
+      <subfield code="b">Breitkopf und Härtel</subfield>
+      <subfield code="c">1798-1865</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">Online-Ressource</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">Computermedien</subfield>
+      <subfield code="b">c</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Online-Ressource</subfield>
+      <subfield code="b">cr</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="362" ind1="0" ind2=" ">
+      <subfield code="a">1.1798/99 - 4.1801/02; 6.1802/03 - 50.1848; N.F. 1.1863 - 3.1865; [3.Ser.] 4.1869 - 8.1873; mehr nicht digitalisiert</subfield>
+    </datafield>
+    <datafield tag="363" ind1="0" ind2="0">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="a">1</subfield>
+      <subfield code="i">1798/99</subfield>
+    </datafield>
+    <datafield tag="363" ind1="1" ind2="0">
+      <subfield code="8">1.2\x</subfield>
+      <subfield code="a">4</subfield>
+      <subfield code="i">1801/02</subfield>
+    </datafield>
+    <datafield tag="363" ind1="0" ind2="0">
+      <subfield code="8">2.1\x</subfield>
+      <subfield code="a">6</subfield>
+      <subfield code="i">1802/03</subfield>
+    </datafield>
+    <datafield tag="363" ind1="1" ind2="0">
+      <subfield code="8">2.2\x</subfield>
+      <subfield code="a">50</subfield>
+      <subfield code="i">1848</subfield>
+    </datafield>
+    <datafield tag="363" ind1="0" ind2="0">
+      <subfield code="8">3.1\x</subfield>
+      <subfield code="a">1</subfield>
+      <subfield code="i">1863</subfield>
+    </datafield>
+    <datafield tag="363" ind1="1" ind2="0">
+      <subfield code="8">3.2\x</subfield>
+      <subfield code="a">3</subfield>
+      <subfield code="i">1865</subfield>
+    </datafield>
+    <datafield tag="363" ind1="0" ind2="0">
+      <subfield code="8">4.1\x</subfield>
+      <subfield code="a">4</subfield>
+      <subfield code="i">1869</subfield>
+    </datafield>
+    <datafield tag="363" ind1="1" ind2="0">
+      <subfield code="8">4.2\x</subfield>
+      <subfield code="a">8</subfield>
+      <subfield code="i">1873</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Repr.: Amsterdam : Knuf</subfield>
+    </datafield>
+    <datafield tag="515" ind1=" " ind2=" ">
+      <subfield code="a">Periodizität: wöchentl.</subfield>
+    </datafield>
+    <datafield tag="530" ind1=" " ind2=" ">
+      <subfield code="a">Digital. Ausg.: München : Münchener Digitalisierungszentrum, 2008 - 2013. - Berlin : Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, 2018</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" ">
+      <subfield code="7">d20082018</subfield>
+      <subfield code="b">München</subfield>
+      <subfield code="c">Münchener Digitalisierungszentrum</subfield>
+      <subfield code="b">Berlin</subfield>
+      <subfield code="c">Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</subfield>
+    </datafield>
+    <datafield tag="555" ind1="8" ind2=" ">
+      <subfield code="a">Index in: Répertoire international de la presse musicale</subfield>
+    </datafield>
+    <datafield tag="583" ind1="1" ind2=" ">
+      <subfield code="a">Archivierung/Langzeitarchivierung gewährleistet</subfield>
+      <subfield code="5">DE-12</subfield>
+      <subfield code="2">pdager</subfield>
+    </datafield>
+    <datafield tag="591" ind1=" " ind2=" ">
+      <subfield code="a">85640SF3!Volltext</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="0">(DE-588)4128543-8</subfield>
+      <subfield code="0">https://d-nb.info/gnd/4128543-8</subfield>
+      <subfield code="0">(DE-101)041285433</subfield>
+      <subfield code="a">Musikzeitschrift</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="0">(DE-588)4040802-4</subfield>
+      <subfield code="0">https://d-nb.info/gnd/4040802-4</subfield>
+      <subfield code="0">(DE-101)040408027</subfield>
+      <subfield code="a">Musik</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="0">(DE-588)4067510-5</subfield>
+      <subfield code="0">https://d-nb.info/gnd/4067510-5</subfield>
+      <subfield code="0">(DE-101)040675106</subfield>
+      <subfield code="a">Zeitung</subfield>
+      <subfield code="2">gnd-content</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Zeitschrift</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="689" ind1="0" ind2="0">
+      <subfield code="0">(DE-588)4128543-8</subfield>
+      <subfield code="0">https://d-nb.info/gnd/4128543-8</subfield>
+      <subfield code="0">(DE-101)041285433</subfield>
+      <subfield code="D">s</subfield>
+      <subfield code="a">Musikzeitschrift</subfield>
+    </datafield>
+    <datafield tag="689" ind1="0" ind2=" ">
+      <subfield code="5">DE-600</subfield>
+      <subfield code="5">DE-600</subfield>
+    </datafield>
+    <datafield tag="689" ind1="1" ind2="0">
+      <subfield code="0">(DE-588)4040802-4</subfield>
+      <subfield code="0">https://d-nb.info/gnd/4040802-4</subfield>
+      <subfield code="0">(DE-101)040408027</subfield>
+      <subfield code="D">s</subfield>
+      <subfield code="a">Musik</subfield>
+    </datafield>
+    <datafield tag="689" ind1="1" ind2="1">
+      <subfield code="A">f</subfield>
+      <subfield code="a">Zeitschrift</subfield>
+    </datafield>
+    <datafield tag="689" ind1="1" ind2=" ">
+      <subfield code="5">DE-600</subfield>
+      <subfield code="5">DE-600</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="0">(DE-588)118601644</subfield>
+      <subfield code="0">https://d-nb.info/gnd/118601644</subfield>
+      <subfield code="0">(DE-101)118601644</subfield>
+      <subfield code="a">Rochlitz, Friedrich</subfield>
+      <subfield code="d">1769-1842</subfield>
+      <subfield code="e">Mitwirkender</subfield>
+      <subfield code="4">ctb</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="751" ind1=" " ind2=" ">
+      <subfield code="0">(DE-588)4035206-7</subfield>
+      <subfield code="0">https://d-nb.info/gnd/4035206-7</subfield>
+      <subfield code="0">(DE-101)040352064</subfield>
+      <subfield code="a">Leipzig</subfield>
+      <subfield code="4">dbp</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="770" ind1="0" ind2="8">
+      <subfield code="t">Beil. ---&gt; Anton Diabelli und Compagnie &lt;Wien&gt;: Ostermesse-Bericht</subfield>
+    </datafield>
+    <datafield tag="770" ind1="0" ind2="8">
+      <subfield code="i">Beil.:</subfield>
+      <subfield code="t">Allgemeine musikalische Zeitung / Intelligenzblatt. Intelligenzblatt zur Allgemeinen musikalischen Zeitung</subfield>
+      <subfield code="d">Leipzig : Breitkopf u. Härtel, 1798-1840</subfield>
+      <subfield code="h">Online-Ressource</subfield>
+      <subfield code="w">(DE-600)2805127-0</subfield>
+      <subfield code="w">(DE-101)1064283802</subfield>
+    </datafield>
+    <datafield tag="770" ind1="0" ind2="8">
+      <subfield code="t">Beil. ---&gt; Breitkopf &amp; Härtel &lt;Leipzig&gt;: Neue Musikalien im Verlag von Breitkopf &amp; Härtel in Leipzig</subfield>
+    </datafield>
+    <datafield tag="776" ind1="0" ind2="8">
+      <subfield code="i">Elektronische Reproduktion von</subfield>
+      <subfield code="t">Allgemeine musikalische Zeitung</subfield>
+      <subfield code="d">Leipzig ; Winterthur : Rieter-Biedermann, 1798-1882</subfield>
+      <subfield code="x">2510-7461</subfield>
+      <subfield code="w">(DE-600)505329-8</subfield>
+      <subfield code="w">(DE-101)012650633</subfield>
+    </datafield>
+    <datafield tag="785" ind1="0" ind2="8">
+      <subfield code="i">1860 - 1862</subfield>
+      <subfield code="t">Deutsche Musik-Zeitung</subfield>
+      <subfield code="d">Wien : Wessely &amp; Büsing, 1860-1862</subfield>
+      <subfield code="h">Online-Ressource</subfield>
+      <subfield code="w">(DE-600)2794092-5</subfield>
+      <subfield code="w">(DE-101)1059604833</subfield>
+    </datafield>
+    <datafield tag="785" ind1="0" ind2="8">
+      <subfield code="i">[3.Ser.] 1.1866 - 3.1868</subfield>
+      <subfield code="t">Leipziger allgemeine musikalische Zeitung</subfield>
+      <subfield code="d">Leipzig ; Winterthur : Rieter-Biedermann, 1866-1868</subfield>
+      <subfield code="h">Online-Ressource</subfield>
+      <subfield code="w">(DE-600)2794091-3</subfield>
+      <subfield code="w">(DE-101)1059604809</subfield>
+    </datafield>
+    <datafield tag="785" ind1="0" ind2="0">
+      <subfield code="t">Forts. ---&gt; Allgemeine Musikzeitung</subfield>
+    </datafield>
+    <datafield tag="850" ind1=" " ind2=" ">
+      <subfield code="a">DE-101a</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="u">http://opacplus.bsb-muenchen.de/title/505329-8</subfield>
+      <subfield code="x">Langzeitarchivierung; urheberrechtsfreie Bände</subfield>
+      <subfield code="z">kostenfrei</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="u">http://resolver.staatsbibliothek-berlin.de/SBB0002206300000000</subfield>
+      <subfield code="x">Digitalisierung; 2. Jahrgang (1. Okt. 1799/24. Sept. 1800)</subfield>
+      <subfield code="z">kostenfrei</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="u">https://digipress.digitale-sammlungen.de/calendar/newspaper/bsbmult00000037</subfield>
+      <subfield code="x">Langzeitarchivierung; urheberrechtsfreie Bände</subfield>
+      <subfield code="z">kostenfrei</subfield>
+    </datafield>
+    <datafield tag="924" ind1="1" ind2=" ">
+      <subfield code="9">101a</subfield>
+      <subfield code="b">DE-101a</subfield>
+      <subfield code="c">SAX</subfield>
+      <subfield code="d">b</subfield>
+      <subfield code="z">&lt;Zugriff auf den lizenzfreien Volltext über URL&gt;</subfield>
+    </datafield>
+    <datafield tag="924" ind1="1" ind2=" ">
+      <subfield code="9">12</subfield>
+      <subfield code="b">DE-12</subfield>
+      <subfield code="c">BAY</subfield>
+      <subfield code="k">https://digipress.digitale-sammlungen.de/calendar/newspaper/bsbmult00000037</subfield>
+      <subfield code="m">1</subfield>
+      <subfield code="q">1798/99</subfield>
+      <subfield code="w">;</subfield>
+      <subfield code="m">3</subfield>
+      <subfield code="q">1800/1801</subfield>
+      <subfield code="r">4</subfield>
+      <subfield code="v">1801/02</subfield>
+      <subfield code="w">;</subfield>
+      <subfield code="m">6</subfield>
+      <subfield code="q">1802/03</subfield>
+      <subfield code="r">50</subfield>
+      <subfield code="v">1848</subfield>
+      <subfield code="w">;</subfield>
+      <subfield code="m">1</subfield>
+      <subfield code="q">1863</subfield>
+      <subfield code="r">3</subfield>
+      <subfield code="v">1865</subfield>
+      <subfield code="w">;</subfield>
+      <subfield code="m">4</subfield>
+      <subfield code="q">1869</subfield>
+      <subfield code="r">8</subfield>
+      <subfield code="v">1873</subfield>
+      <subfield code="z">&lt;1.1798/99; 3.1800/1801 - 4.1801/02; 6.1802/03 - 50.1848; N.F. 1.1863 - 3.1865; [3.Ser.] 4.1869 - 8.1873&gt;</subfield>
+    </datafield>
+  </record>
