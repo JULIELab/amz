@@ -1,7 +1,7 @@
 <record>
 	<leader>00000cas a2200000 a 4500</leader>
 	<controlfield tag="001">16260944</controlfield>
-	<controlfield tag="008">820122c17981848utudr ne      0   a0eng c</controlfield>
+	<controlfield tag="008">820122c17981865utudr ne      0   a0ger c</controlfield>
 	<datafield ind1=" " ind2=" " tag="010">
 		<subfield code="a">BV 002720696 </subfield>
 	</datafield>
@@ -79,7 +79,7 @@
 	</datafield>
 	<datafield ind1=" " ind2=" " tag="260">
 		<subfield code="a">Leipzig, Germany :</subfield>
-		<subfield code="b">Breitkopf und Ha&#776;rtel</subfield>
+		<subfield code="b">Breitkopf und Härtel</subfield>
 		<subfield code="c">1798-1865</subfield>
 	</datafield>
 	<datafield ind1=" " ind2=" " tag="300">
@@ -109,7 +109,7 @@
 		<subfield code="a">-</subfield>
 	</datafield>
 	<datafield ind1=" " ind2=" " tag="500">
-		<subfield code="a">P-</subfield>
+		<subfield code="a">-</subfield>
 	</datafield>
 	<datafield ind1=" " ind2=" " tag="515">
 		<subfield code="a">-</subfield>
