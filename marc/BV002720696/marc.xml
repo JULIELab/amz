@@ -75,7 +75,7 @@
 		<subfield code="a">Allgemeine Musikalische Zeitung</subfield>
 	</datafield>
 	<datafield ind1="1" ind2="4" tag="245">
-		<subfield code="a">Allgemeine Musikalische Zeitung.</subfield>
+		<subfield code="a">Allgemeine Musikalische Zeitung</subfield>
 	</datafield>
 	<datafield ind1=" " ind2=" " tag="260">
 		<subfield code="a">Leipzig, Germany :</subfield>
@@ -101,7 +101,7 @@
 		<subfield code="2">rdamedia</subfield>
 	</datafield>
 	<datafield ind1=" " ind2=" " tag="338">
-		<subfield code="a">volume</subfield>
+		<subfield code="a"></subfield>
 		<subfield code="b">nc</subfield>
 		<subfield code="2">rdacarrier</subfield>
 	</datafield>
